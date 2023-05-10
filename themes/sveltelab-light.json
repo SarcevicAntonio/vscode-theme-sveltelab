@@ -4,7 +4,7 @@
   "colors": {
     "focusBorder": "#00000000",
     "foreground": "#212121",
-    "descriptionForeground": "#676779",
+    "descriptionForeground": "#67677990",
     "errorForeground": "#ab5959",
     "textLink.foreground": "#ff4000",
     "textLink.activeForeground": "#ff4000",
@@ -25,10 +25,10 @@
     "input.background": "#f7fafd",
     "input.border": "#c2cdd6",
     "input.foreground": "#212121",
-    "input.placeholderForeground": "#676779",
+    "input.placeholderForeground": "#67677990",
     "inputOption.activeBackground": "#393a3450",
     "badge.foreground": "#ffffff",
-    "badge.background": "#676779",
+    "badge.background": "#67677990",
     "progressBar.background": "#ff4000",
     "titleBar.activeForeground": "#454545",
     "titleBar.activeBackground": "#ffffff",
@@ -92,7 +92,7 @@
     "tab.unfocusedActiveBorderTop": "#c2cdd6",
     "tab.activeBorder": "#c2cdd6",
     "tab.unfocusedActiveBorder": "#c2cdd6",
-    "tab.activeBorderTop": "#676779",
+    "tab.activeBorderTop": "#67677990",
     "breadcrumb.foreground": "#6a737d",
     "breadcrumb.focusForeground": "#212121",
     "breadcrumb.background": "#f7fafd",
@@ -153,7 +153,7 @@
     "gitDecoration.untrackedResourceForeground": "#2993a3",
     "gitDecoration.ignoredResourceForeground": "#393a3450",
     "gitDecoration.conflictingResourceForeground": "#a65e2b",
-    "gitDecoration.submoduleResourceForeground": "#676779",
+    "gitDecoration.submoduleResourceForeground": "#67677990",
     "editorGutter.modifiedBackground": "#296aa3",
     "editorGutter.addedBackground": "#1e754f",
     "editorGutter.deletedBackground": "#ab5959",
@@ -180,7 +180,7 @@
     "editorInfo.foreground": "#296aa3",
     "editorHint.foreground": "#1e754f",
     "editorGutter.commentRangeForeground": "#393a3450",
-    "editorGutter.foldingControlForeground": "#676779",
+    "editorGutter.foldingControlForeground": "#67677990",
     "editorInlayHint.foreground": "#999999",
     "editorInlayHint.background": "#00000000",
     "editorStickyScroll.background": "#f7fafd",
@@ -644,7 +644,7 @@
         "markup.underline.link.markdown"
       ],
       "settings": {
-        "foreground": "#676779",
+        "foreground": "#67677990",
         "fontStyle": "underline"
       }
     },
@@ -1140,7 +1140,7 @@
     },
     {
       "token": "markup.underline.link.markdown",
-      "foreground": "676779"
+      "foreground": "67677990"
     },
     {
       "token": "type.identifier",
