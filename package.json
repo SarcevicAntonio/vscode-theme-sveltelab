@@ -1,5 +1,5 @@
 {
-  "publisher": "Antonio Sarcevic",
+  "publisher": "AntonioSarcevic",
   "name": "theme-sveltesse",
   "displayName": "Sveltesse Theme",
   "version": "0.0.1",
@@ -64,7 +64,7 @@
     "vscode:prepublish": "npm run build",
     "lint": "eslint .",
     "prepublishOnly": "npm run build",
-    "release": "bumpp --all && vsce publish --no-dependencies"
+    "release": "npx vsce publish --no-dependencies"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.38.6",
