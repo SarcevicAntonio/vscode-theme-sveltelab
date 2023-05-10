@@ -1,21 +1,21 @@
 {
-  "publisher": "antfu",
-  "name": "theme-vitesse",
-  "displayName": "Vitesse Theme",
-  "version": "0.7.2",
+  "publisher": "Antonio Sarcevic",
+  "name": "theme-sveltelab",
+  "displayName": "SvelteLab Theme",
+  "version": "0.0.1",
   "packageManager": "pnpm@8.5.0",
-  "description": "Vitesse theme for VS Code",
+  "description": "SvelteLab theme for VS Code",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/vscode-theme-vitesse"
+    "url": "https://github.com/SarcevicAntonio/vscode-theme-sveltelab"
   },
   "bugs": {
-    "url": "https://github.com/antfu/vscode-theme-vitesse/issues"
+    "url": "https://github.com/SarcevicAntonio/vscode-theme-sveltelab/issues"
   },
   "keywords": [
     "theme",
-    "vitesse",
+    "sveltelab",
     "light",
     "dark"
   ],
@@ -32,29 +32,29 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vitesse Light",
+        "label": "SvelteLab Light",
         "uiTheme": "vs",
-        "path": "./themes/vitesse-light.json"
+        "path": "./themes/sveltelab-light.json"
       },
       {
-        "label": "Vitesse Dark",
+        "label": "SvelteLab Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-dark.json"
+        "path": "./themes/sveltelab-dark.json"
       },
       {
-        "label": "Vitesse Black",
+        "label": "SvelteLab Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-black.json"
+        "path": "./themes/sveltelab-black.json"
       },
       {
-        "label": "Vitesse Light Soft",
+        "label": "SvelteLab Light Soft",
         "uiTheme": "vs",
-        "path": "./themes/vitesse-light-soft.json"
+        "path": "./themes/sveltelab-light-soft.json"
       },
       {
-        "label": "Vitesse Dark Soft",
+        "label": "SvelteLab Dark Soft",
         "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-dark-soft.json"
+        "path": "./themes/sveltelab-dark-soft.json"
       }
     ]
   },

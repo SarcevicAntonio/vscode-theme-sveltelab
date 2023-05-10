@@ -4,40 +4,40 @@ import getTheme from './theme'
 fs.mkdir('./themes', { recursive: true })
   .then(() => Promise.all([
     fs.writeFile(
-      './themes/vitesse-light.json',
+      './themes/sveltelab-light.json',
       `${JSON.stringify(getTheme({
         style: 'light',
-        name: 'Vitesse Light',
+        name: 'SvelteLab Light',
       }), null, 2)}\n`,
     ),
     fs.writeFile(
-      './themes/vitesse-dark.json',
+      './themes/sveltelab-dark.json',
       `${JSON.stringify(getTheme({
         style: 'dark',
-        name: 'Vitesse Dark',
+        name: 'SvelteLab Dark',
       }), null, 2)}\n`,
     ),
     fs.writeFile(
-      './themes/vitesse-black.json',
+      './themes/sveltelab-black.json',
       `${JSON.stringify(getTheme({
         style: 'dark',
-        name: 'Vitesse Black',
+        name: 'SvelteLab Black',
         black: true,
       }), null, 2)}\n`,
     ),
     fs.writeFile(
-      './themes/vitesse-light-soft.json',
+      './themes/sveltelab-light-soft.json',
       `${JSON.stringify(getTheme({
         style: 'light',
-        name: 'Vitesse Light Soft',
+        name: 'SvelteLab Light Soft',
         soft: true,
       }), null, 2)}\n`,
     ),
     fs.writeFile(
-      './themes/vitesse-dark-soft.json',
+      './themes/sveltelab-dark-soft.json',
       `${JSON.stringify(getTheme({
         style: 'dark',
-        name: 'Vitesse Dark Soft',
+        name: 'SvelteLab Dark Soft',
         soft: true,
       }), null, 2)}\n`,
     ),
