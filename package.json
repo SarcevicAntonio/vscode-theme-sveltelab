@@ -1,21 +1,21 @@
 {
   "publisher": "Antonio Sarcevic",
-  "name": "theme-sveltelab",
-  "displayName": "SvelteLab Theme",
+  "name": "theme-sveltesse",
+  "displayName": "Sveltesse Theme",
   "version": "0.0.1",
   "packageManager": "pnpm@8.5.0",
-  "description": "SvelteLab theme for VS Code",
+  "description": "Sveltesse theme for VS Code",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SarcevicAntonio/vscode-theme-sveltelab"
+    "url": "https://github.com/SarcevicAntonio/vscode-theme-sveltesse"
   },
   "bugs": {
-    "url": "https://github.com/SarcevicAntonio/vscode-theme-sveltelab/issues"
+    "url": "https://github.com/SarcevicAntonio/vscode-theme-sveltesse/issues"
   },
   "keywords": [
     "theme",
-    "sveltelab",
+    "sveltesse",
     "light",
     "dark"
   ],
@@ -32,29 +32,29 @@
   "contributes": {
     "themes": [
       {
-        "label": "SvelteLab Light",
+        "label": "Sveltesse Light",
         "uiTheme": "vs",
-        "path": "./themes/sveltelab-light.json"
+        "path": "./themes/sveltesse-light.json"
       },
       {
-        "label": "SvelteLab Dark",
+        "label": "Sveltesse Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/sveltelab-dark.json"
+        "path": "./themes/sveltesse-dark.json"
       },
       {
-        "label": "SvelteLab Black",
+        "label": "Sveltesse Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/sveltelab-black.json"
+        "path": "./themes/sveltesse-black.json"
       },
       {
-        "label": "SvelteLab Light Soft",
+        "label": "Sveltesse Light Soft",
         "uiTheme": "vs",
-        "path": "./themes/sveltelab-light-soft.json"
+        "path": "./themes/sveltesse-light-soft.json"
       },
       {
-        "label": "SvelteLab Dark Soft",
+        "label": "Sveltesse Dark Soft",
         "uiTheme": "vs-dark",
-        "path": "./themes/sveltelab-dark-soft.json"
+        "path": "./themes/sveltesse-dark-soft.json"
       }
     ]
   },

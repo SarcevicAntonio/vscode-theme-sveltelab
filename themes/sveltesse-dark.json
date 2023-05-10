@@ -1,5 +1,5 @@
 {
-  "name": "SvelteLab Dark",
+  "name": "Sveltesse Dark",
   "base": "vs-dark",
   "colors": {
     "focusBorder": "#00000000",
@@ -205,7 +205,7 @@
         "string.comment"
       ],
       "settings": {
-        "foreground": "#758575dd"
+        "foreground": "#828282"
       }
     },
     {
@@ -250,7 +250,7 @@
         "entity.name"
       ],
       "settings": {
-        "foreground": "#80a665"
+        "foreground": "#eab095"
       }
     },
     {
@@ -265,13 +265,13 @@
         "tag.html"
       ],
       "settings": {
-        "foreground": "#4d9375"
+        "foreground": "#57b5f4"
       }
     },
     {
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#80a665"
+        "foreground": "#eab095"
       }
     },
     {
@@ -280,7 +280,7 @@
         "storage.type.class.jsdoc"
       ],
       "settings": {
-        "foreground": "#4d9375"
+        "foreground": "#57b5f4"
       }
     },
     {
@@ -313,7 +313,7 @@
         "attribute.value"
       ],
       "settings": {
-        "foreground": "#c98a7d"
+        "foreground": "#ccb88f"
       }
     },
     {
@@ -322,7 +322,7 @@
         "punctuation.support.type.property-name"
       ],
       "settings": {
-        "foreground": "#c98a7d99"
+        "foreground": "#ccb88f99"
       }
     },
     {
@@ -432,7 +432,7 @@
     {
       "scope": "string variable",
       "settings": {
-        "foreground": "#c98a7d"
+        "foreground": "#ccb88f"
       }
     },
     {
@@ -452,7 +452,7 @@
         "string.regexp string.regexp.arbitrary-repitition"
       ],
       "settings": {
-        "foreground": "#c98a7d"
+        "foreground": "#ccb88f"
       }
     },
     {
@@ -638,7 +638,7 @@
         "punctuation.definition.string.end.markdown"
       ],
       "settings": {
-        "foreground": "#c98a7d"
+        "foreground": "#ccb88f"
       }
     },
     {
@@ -663,7 +663,7 @@
         "entity.other.attribute-name.html.vue"
       ],
       "settings": {
-        "foreground": "#80a665"
+        "foreground": "#eab095"
       }
     },
     {
@@ -678,15 +678,15 @@
   "rules": [
     {
       "token": "comment",
-      "foreground": "758575dd"
+      "foreground": "828282"
     },
     {
       "token": "punctuation.definition.comment",
-      "foreground": "758575dd"
+      "foreground": "828282"
     },
     {
       "token": "string.comment",
-      "foreground": "758575dd"
+      "foreground": "828282"
     },
     {
       "token": "delimiter.bracket",
@@ -778,11 +778,11 @@
     },
     {
       "token": "entity",
-      "foreground": "80a665"
+      "foreground": "eab095"
     },
     {
       "token": "entity.name",
-      "foreground": "80a665"
+      "foreground": "eab095"
     },
     {
       "token": "variable.parameter.function",
@@ -790,23 +790,23 @@
     },
     {
       "token": "entity.name.tag",
-      "foreground": "4d9375"
+      "foreground": "57b5f4"
     },
     {
       "token": "tag.html",
-      "foreground": "4d9375"
+      "foreground": "57b5f4"
     },
     {
       "token": "entity.name.function",
-      "foreground": "80a665"
+      "foreground": "eab095"
     },
     {
       "token": "keyword",
-      "foreground": "4d9375"
+      "foreground": "57b5f4"
     },
     {
       "token": "storage.type.class.jsdoc",
-      "foreground": "4d9375"
+      "foreground": "57b5f4"
     },
     {
       "token": "storage",
@@ -846,23 +846,23 @@
     },
     {
       "token": "string",
-      "foreground": "c98a7d"
+      "foreground": "ccb88f"
     },
     {
       "token": "string punctuation.section.embedded source",
-      "foreground": "c98a7d"
+      "foreground": "ccb88f"
     },
     {
       "token": "attribute.value",
-      "foreground": "c98a7d"
+      "foreground": "ccb88f"
     },
     {
       "token": "punctuation.definition.string",
-      "foreground": "c98a7d99"
+      "foreground": "ccb88f99"
     },
     {
       "token": "punctuation.support.type.property-name",
-      "foreground": "c98a7d99"
+      "foreground": "ccb88f99"
     },
     {
       "token": "support",
@@ -954,7 +954,7 @@
     },
     {
       "token": "string variable",
-      "foreground": "c98a7d"
+      "foreground": "ccb88f"
     },
     {
       "token": "source.regexp",
@@ -966,19 +966,19 @@
     },
     {
       "token": "string.regexp.character-class",
-      "foreground": "c98a7d"
+      "foreground": "ccb88f"
     },
     {
       "token": "string.regexp constant.character.escape",
-      "foreground": "c98a7d"
+      "foreground": "ccb88f"
     },
     {
       "token": "string.regexp source.ruby.embedded",
-      "foreground": "c98a7d"
+      "foreground": "ccb88f"
     },
     {
       "token": "string.regexp string.regexp.arbitrary-repitition",
-      "foreground": "c98a7d"
+      "foreground": "ccb88f"
     },
     {
       "token": "string.regexp constant.character.escape",
@@ -1126,19 +1126,19 @@
     },
     {
       "token": "constant.other.reference.link",
-      "foreground": "c98a7d"
+      "foreground": "ccb88f"
     },
     {
       "token": "string.other.link",
-      "foreground": "c98a7d"
+      "foreground": "ccb88f"
     },
     {
       "token": "punctuation.definition.string.begin.markdown",
-      "foreground": "c98a7d"
+      "foreground": "ccb88f"
     },
     {
       "token": "punctuation.definition.string.end.markdown",
-      "foreground": "c98a7d"
+      "foreground": "ccb88f"
     },
     {
       "token": "markup.underline.link.markdown",
@@ -1150,7 +1150,7 @@
     },
     {
       "token": "entity.other.attribute-name.html.vue",
-      "foreground": "80a665"
+      "foreground": "eab095"
     },
     {
       "token": "invalid.illegal.unrecognized-tag.html"
